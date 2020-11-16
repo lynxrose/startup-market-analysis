@@ -82,7 +82,7 @@ My alternative hypothesis states that the Medical Market is more successful in f
 	have the same funding round outcome 
 	of the medical market around half the time.
 
-*Comparing the medical field to the rental and gaming market we can see that the null hypothesis can be rejected because the p-value is 0.0000002 and 0.0042 respectively.*
+In conclution there is sufficiently evidence to assert the medical market achieves more funding rounds than the markets in red.
 
 
 # Sources
