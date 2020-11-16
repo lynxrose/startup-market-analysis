@@ -76,11 +76,13 @@ My alternative hypothesis states that the Medical Market is more successful in f
 
 >![](graphs/Mean_Funding_Round_per_Market_Color.png)
 
-	ABOVE: The medical market when compared to other markets the null hypothesis may be regected if red. 
-	A p-value of ~0.48 demonstrates that science and engineering have the same funding round outcome 
+	ABOVE: The medical market when compared to other markets,
+	the null hypothesis may be regected if red. 
+	A p-value of ~0.48 demonstrates that science and engineering 
+	have the same funding round outcome 
 	of the medical market around half the time.
 
-*Comparing the medical field to the rental and gaming market we can see that the null hypothesis can be rejected because the p-value is 0.0000002 and 0.0042 respectively.*
+In conclution there is sufficiently evidence to assert the medical market achieves more funding rounds than the markets in red.
 
 
 # Sources
